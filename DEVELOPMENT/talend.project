@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_KXVmwfFYEe6Xm_ZX6ipaoA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_KXVmwvFYEe6Xm_ZX6ipaoA" productVersion="Talend Cloud Data Fabric-8.0.1.20240222_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_KXVmwfFYEe6Xm_ZX6ipaoA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_KXVmwvFYEe6Xm_ZX6ipaoA" productVersion="Talend Cloud Data Fabric-8.0.1.20240604_0759-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <componentsSettings xmi:id="_rM9agBZbEe-vZMuYVEt2xQ" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_rM9agRZbEe-vZMuYVEt2xQ" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_rM9aghZbEe-vZMuYVEt2xQ" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_rM9agxZbEe-vZMuYVEt2xQ" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_sDkSYBZbEe-vZMuYVEt2xQ" name="DI|tUniservRTMailBulk" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDpK4BZbEe-vZMuYVEt2xQ" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_sDpK4RZbEe-vZMuYVEt2xQ" name="DI|tUniservRTConvertName" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDpK4hZbEe-vZMuYVEt2xQ" name="DI|tSAPIDocInput" family="Business/SAP"/>
+    <componentsSettings xmi:id="_sDqZABZbEe-vZMuYVEt2xQ" name="DI|tUniservRTMailOutput" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZARZbEe-vZMuYVEt2xQ" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_sDqZAhZbEe-vZMuYVEt2xQ" name="DI|tAccessBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_sDqZAxZbEe-vZMuYVEt2xQ" name="DI|tBlockedFuzzyJoin" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZBBZbEe-vZMuYVEt2xQ" name="DI|tFuzzyJoin" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZBRZbEe-vZMuYVEt2xQ" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_sDqZBhZbEe-vZMuYVEt2xQ" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_sDqZBxZbEe-vZMuYVEt2xQ" name="DI|tAccessOutputBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_sDqZCBZbEe-vZMuYVEt2xQ" name="DI|tUniservBTGeneric" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZCRZbEe-vZMuYVEt2xQ" name="DI|tUniservRTPost" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZChZbEe-vZMuYVEt2xQ" name="DI|tUniservRTMailSearch" family="Deprecated"/>
+    <componentsSettings xmi:id="_sDqZCxZbEe-vZMuYVEt2xQ" name="DI|tSAPHanaUnload" family="Databases/DB Specifics/SAP Hana"/>
+    <componentsSettings xmi:id="_sX7Y0BZbEe-vZMuYVEt2xQ" name="SPARK|tAvroMap" family="Processing"/>
+    <componentsSettings xmi:id="_sqJxQBZbEe-vZMuYVEt2xQ" name="SPARKSTREAMING|tAvroMap" family="Processing"/>
+    <componentsSettings xmi:id="_s6vyABZbEe-vZMuYVEt2xQ" name="CAMEL|cAzureStorageBlob" family="Azure"/>
+    <componentsSettings xmi:id="_s6vyARZbEe-vZMuYVEt2xQ" name="CAMEL|cAWSMQBroker" family="Connectivity/Messaging"/>
+    <componentsSettings xmi:id="_s6vyAhZbEe-vZMuYVEt2xQ" name="CAMEL|cAzureStorageBlob" family="Connectivity/File"/>
+    <componentsSettings xmi:id="_s6vyAxZbEe-vZMuYVEt2xQ" name="CAMEL|cAWSMQBroker" family="AWS"/>
     <migrationTask xmi:id="_KYxxMPFYEe6Xm_ZX6ipaoA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_KXVmwvFYEe6Xm_ZX6ipaoA" login="glenndael@micropinnacletechnologycorporation_nfr" firstName="Glenn Marvin" lastName="Dael" type="DQ"/>
   <TalendProperties:User xmi:id="_kMGlUPFYEe6Xm_ZX6ipaoA" login="ivan.mangubat@micropinnacletechnologycorporation_nfr" firstName="Ivan" lastName="Mangubat" type="DQ"/>
+  <TalendProperties:User xmi:id="_01_jgC0TEe-7k8V6yClh7Q" login="mary.repato@micropinnacletechnologycorporation_nfr" firstName="Mary" lastName="Repato" type="DQ"/>
 </xmi:XMI>

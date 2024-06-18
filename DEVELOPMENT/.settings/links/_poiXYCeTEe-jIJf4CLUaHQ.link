@@ -1,0 +1,14 @@
+{
+  "itemId" : "_poiXYCeTEe-jIJf4CLUaHQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_7x5WACnvEe-BqbP4Xpb5HA",
+    "parameterList" : [ {
+      "id" : "_7yCf8SnvEe-BqbP4Xpb5HA",
+      "name" : "user"
+    }, {
+      "id" : "_7yCf8invEe-BqbP4Xpb5HA",
+      "name" : "pass"
+    } ]
+  } ]
+}
