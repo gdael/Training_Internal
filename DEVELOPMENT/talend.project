@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_AanLoRDYEe-PlI-Kh4S-VA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_AanysBDYEe-PlI-Kh4S-VA" productVersion="Talend Cloud Data Fabric-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_AanLoRDYEe-PlI-Kh4S-VA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_AanysBDYEe-PlI-Kh4S-VA" productVersion="Talend Cloud Data Fabric-8.0.1.20240604_0759-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_AbYnsBDYEe-PlI-Kh4S-VA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_AanysBDYEe-PlI-Kh4S-VA" login="glenndael@micropinnacletechnologycorporation_nfr" firstName="Glenn Marvin" lastName="Dael" type="DQ"/>
+  <TalendProperties:User xmi:id="_80o2UC7aEe-yHY7uAj_lcQ" login="ivan.mangubat@micropinnacletechnologycorporation_nfr" firstName="Ivan" lastName="Mangubat" type="DQ"/>
+  <TalendProperties:User xmi:id="_80o2US7aEe-yHY7uAj_lcQ" login="mary.repato@micropinnacletechnologycorporation_nfr" firstName="Mary" lastName="Repato" type="DQ"/>
 </xmi:XMI>
