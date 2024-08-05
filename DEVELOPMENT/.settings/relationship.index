@@ -1,5 +1,71 @@
 [ {
   "baseItem" : {
+    "id" : "_08lpILjzEe67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_M5F1AE4iEe-gtMMjw7yHMw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_BjDIsNVKEe2EA-b3mTTz-w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_0NaCgM-REe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FF7AENK5Ee24J-1vBwgffw - charge_detail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_giMUYNQsEe2G7bxDNOWD3g - ar_invoice",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kzGeANQuEe2G7bxDNOWD3g - policy",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_vtvRgNQsEe2G7bxDNOWD3g - ar_invoice_detail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_FR8r8CocEe-BqbP4Xpb5HA",
     "version" : "0.1",
     "type" : "job"
@@ -53,6 +119,53 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_I0kygNO-Ee2G7bxDNOWD3g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_0NaCgM-REe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QHgGMNPBEe2G7bxDNOWD3g - bed_entry_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fxn1sNPBEe2G7bxDNOWD3g - ipd_room_class_ref",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_q4Pk0NPBEe2G7bxDNOWD3g - bed_type_ref",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_u0A20NPBEe2G7bxDNOWD3g - bed_action_ref",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_LIpa4E1NEe-4DfZlNLI1Rg",
     "version" : "0.1",
     "type" : "job"
@@ -73,6 +186,45 @@
     "id" : "_xQXS4BcVEe-BN43z54bFkg",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_OU2DMNK4Ee24J-1vBwgffw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FF7AENK5Ee24J-1vBwgffw - charge_detail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_e4HoQNK4Ee24J-1vBwgffw - costcentre",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_nS3nANK4Ee24J-1vBwgffw - item",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
@@ -118,6 +270,37 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_PHAfMNIkEe2j9vr5QABcYg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8tf70NIkEe2j9vr5QABcYg - employee_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_yTAS4NIkEe2j9vr5QABcYg - caregiver_role",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_RfI0YEfSEe-AyPxFm_RWWg",
     "version" : "0.1",
     "type" : "job"
@@ -134,6 +317,21 @@
     "id" : "_xQXS4BcVEe-BN43z54bFkg",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Tqz7oLmREe6hkZFG11Fl4A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
   } ]
 }, {
   "baseItem" : {
@@ -157,6 +355,40 @@
     "id" : "_xQXS4BcVEe-BN43z54bFkg",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W1b-cLjqEe67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WXj9MLjKEe6q-aYdCejO2A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
   } ]
 }, {
   "baseItem" : {
@@ -228,6 +460,25 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_ie4v0LjUEe67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_M5F1AE4iEe-gtMMjw7yHMw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_imbTgC4KEe-QOOD8a5g4xw",
     "version" : "0.1",
     "type" : "job"
@@ -258,6 +509,114 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_khEQQMyCEe2gwv041DXYTA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DqctoMyEEe2gwv041DXYTA - api_patient_view",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_nRnFAM-SEe2r_M8QKBeeIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_0NaCgM-REe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FF7AENK5Ee24J-1vBwgffw - charge_detail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_giMUYNQsEe2G7bxDNOWD3g - ar_invoice",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kzGeANQuEe2G7bxDNOWD3g - policy",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_vtvRgNQsEe2G7bxDNOWD3g - ar_invoice_detail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_nrpasLj3Ee67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_oXbzgM9kEe2nF6JD8UiNyQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0NaCgM-REe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TMu64M9lEe2nF6JD8UiNyQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TMu64M9lEe2nF6JD8UiNyQ - clinical_notes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_poiXYCeTEe-jIJf4CLUaHQ",
     "version" : "0.1",
     "type" : "job"
@@ -274,6 +633,33 @@
     "id" : "_sHKdUCoBEe-BqbP4Xpb5HA",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_qDeIoM-SEe2r_M8QKBeeIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
@@ -330,6 +716,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_w4p70LkCEe67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_whBYYBMqEe-7gPPshWZjMg",
     "version" : "0.1",
     "type" : "job"
@@ -344,6 +745,41 @@
     "type" : "property"
   }, {
     "id" : "_BgH90BMrEe-7gPPshWZjMg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xVvwoNL5Ee2G7bxDNOWD3g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_odT4oMxcEe2PtePfVtYuMw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5AfFEM-TEe2r_M8QKBeeIg - patient_info_view",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_TQwdkNL6Ee2G7bxDNOWD3g - patient_visit_medical_coding",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_d8Pv4NL6Ee2G7bxDNOWD3g - patient_medical_coding",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zkMbgM-TEe2r_M8QKBeeIg - Patient_Visit",
     "version" : "Latest",
     "type" : "schema"
   } ]
@@ -374,6 +810,47 @@
     "type" : "property"
   }, {
     "id" : "_sHKdUCoBEe-BqbP4Xpb5HA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yl0LwLkDEe67BNvZ0tJagQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-jpwoIUXEe6YGMwwrWOFyQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_jsxgQLjJEe6q-aYdCejO2A",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_z9zSUNRJEe237euAck405w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "PDFDecode",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0NaCgM-REe2r_M8QKBeeIg",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_3zni8M-LEe2r_M8QKBeeIg",
     "version" : "Latest",
     "type" : "property"
   } ]
