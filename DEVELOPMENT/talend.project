@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_AanLoRDYEe-PlI-Kh4S-VA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_AanysBDYEe-PlI-Kh4S-VA" productVersion="Talend Cloud Data Fabric-8.0.1.20240604_0759-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_AanLoRDYEe-PlI-Kh4S-VA" label="Development" language="java" technicalLabel="DEVELOPMENT" author="_AanysBDYEe-PlI-Kh4S-VA" productVersion="Talend Cloud Data Fabric-8.0.1.20240718_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gdael/Training_Internal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <componentsSettings xmi:id="_zUNTkC93Ee-xgafEjCsdjg" name="DI|tCouchbaseDCPInput" family="Databases NoSQL/Couchbase"/>
     <componentsSettings xmi:id="_zUNTkS93Ee-xgafEjCsdjg" name="DI|tArray" family="Technical"/>
     <componentsSettings xmi:id="_zUNTki93Ee-xgafEjCsdjg" name="DI|tSAPIDocInput" family="Business/SAP"/>
@@ -23,4 +23,5 @@
   <TalendProperties:User xmi:id="_9oMmgC9kEe-uOfDiTwWYYA" login="ivan.mangubat@micropinnacletechnologycorporation_nfr" firstName="Ivan" lastName="Mangubat" type="DQ"/>
   <TalendProperties:User xmi:id="_9oMmgS9kEe-uOfDiTwWYYA" login="mary.repato@micropinnacletechnologycorporation_nfr" firstName="Mary" lastName="Repato" type="DQ"/>
   <TalendProperties:User xmi:id="_S3WnYE4bEe-7v-7B1_qkXw" login="eunice.mabalot@micropinnacletechnologycorporation_nfr" firstName="Eunice" lastName="Mabalot" type="DQ"/>
+  <TalendProperties:User xmi:id="_C9FLsFOwEe-jNYP9eusLIg" login="eunicemabalot@micropinnacletechnologycorporation_nfr" firstName="Eunice" lastName="Mabalot" type="DQ"/>
 </xmi:XMI>
