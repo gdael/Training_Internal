@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" defaultContext="Default" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" hide="false" name="Default">
-    <contextParameter comment="" internalId="_bKro0FRYEe-Ih6UQvwl1RQ" name="Url" prompt="Url?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="https://micropinnacletechnologyco.freshdesk.com/api/v2/"/>
-    <contextParameter comment="" internalId="_bKro0VRYEe-Ih6UQvwl1RQ" name="ticket" prompt="ticket?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="tickets"/>
-    <contextParameter comment="" internalId="_bKro0lRYEe-Ih6UQvwl1RQ" name="agent" prompt="agent?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="agents"/>
-    <contextParameter comment="" internalId="_bKro01RYEe-Ih6UQvwl1RQ" name="contact" prompt="contact?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="contacts"/>
-    <contextParameter comment="" internalId="_bKro1FRYEe-Ih6UQvwl1RQ" name="company" prompt="company?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="companies"/>
-    <contextParameter comment="" internalId="_bKro1VRYEe-Ih6UQvwl1RQ" name="group" prompt="group?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="admin/groups"/>
-    <contextParameter comment="" internalId="_bKro1lRYEe-Ih6UQvwl1RQ" name="businesshours" prompt="businesshours?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="business_hours"/>
-    <contextParameter comment="" internalId="_bKro11RYEe-Ih6UQvwl1RQ" name="password" prompt="password?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_Password" value="enc:system.encryption.key.v1:4HY9FiAi423TMQV/CBYbvUq7QUu7OyM1+OrGCBjlx7VuYDF+ku7su/0ukA=="/>
-    <contextParameter comment="" internalId="_bKro2FRYEe-Ih6UQvwl1RQ" name="freshdesk" prompt="freshdesk?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="FreshDesk"/>
-    <contextParameter comment="" internalId="_bKro2VRYEe-Ih6UQvwl1RQ" name="host" prompt="host?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="112.199.102.26"/>
-    <contextParameter comment="" internalId="_bKro2lRYEe-Ih6UQvwl1RQ" name="username" prompt="username?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="sa"/>
+    <contextParameter comment="" internalId="_j0qzEFR8Ee-J2qgUFx-NZQ" name="Url" prompt="Url?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="https://micropinnacletechnologyco.freshdesk.com/api/v2/"/>
+    <contextParameter comment="" internalId="_j0qzEVR8Ee-J2qgUFx-NZQ" name="ticket" prompt="ticket?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="tickets"/>
+    <contextParameter comment="" internalId="_j0qzElR8Ee-J2qgUFx-NZQ" name="agent" prompt="agent?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="agents"/>
+    <contextParameter comment="" internalId="_j0qzE1R8Ee-J2qgUFx-NZQ" name="contact" prompt="contact?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="contacts"/>
+    <contextParameter comment="" internalId="_j0qzFFR8Ee-J2qgUFx-NZQ" name="company" prompt="company?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="companies"/>
+    <contextParameter comment="" internalId="_j0qzFVR8Ee-J2qgUFx-NZQ" name="group" prompt="group?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="admin/groups"/>
+    <contextParameter comment="" internalId="_j0qzFlR8Ee-J2qgUFx-NZQ" name="businesshours" prompt="businesshours?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="business_hours"/>
+    <contextParameter comment="" internalId="_j0qzF1R8Ee-J2qgUFx-NZQ" name="emailconfig" prompt="emailconfig?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="email_configs"/>
+    <contextParameter comment="" internalId="_j0qzGFR8Ee-J2qgUFx-NZQ" name="product" prompt="product?" promptNeeded="false" repositoryContextId="_i3vXAFObEe-0vurwzJHJGg" type="id_String" value="products"/>
+    <contextParameter comment="" internalId="_j0raIFR8Ee-J2qgUFx-NZQ" name="password" prompt="password?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_Password" value="enc:system.encryption.key.v1:g84OopmaiD/1I+orxVhxh05dvhxYS59D7QeobGGlbrMBa7SzVOxzAKEl9Q=="/>
+    <contextParameter comment="" internalId="_j0raIVR8Ee-J2qgUFx-NZQ" name="freshdesk" prompt="freshdesk?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="FreshDesk"/>
+    <contextParameter comment="" internalId="_j0raIlR8Ee-J2qgUFx-NZQ" name="host" prompt="host?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="112.199.102.26"/>
+    <contextParameter comment="" internalId="_j0raI1R8Ee-J2qgUFx-NZQ" name="username" prompt="username?" promptNeeded="false" repositoryContextId="_Ni8BAFO5Ee-yPJGBqvHxew" type="id_String" value="sa"/>
   </context>
   <parameters>
     <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" show="false" value="Info"/>
@@ -109,20 +111,20 @@
     <elementParameter field="TEXT" name="FOOTER_LIBRARY" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_CODE" show="false" value=""/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" show="false" value=""/>
-    <routinesParameter id="_CDiRQBDYEe-PlI-Kh4S-VA" name="StringHandling"/>
     <routinesParameter id="_CDOvQBDYEe-PlI-Kh4S-VA" name="DataOperation"/>
-    <routinesParameter id="_CDvsoBDYEe-PlI-Kh4S-VA" name="TalendString"/>
-    <routinesParameter id="_CCyqYBDYEe-PlI-Kh4S-VA" name="SQLike"/>
-    <routinesParameter id="_CDSZoBDYEe-PlI-Kh4S-VA" name="Mathematical"/>
-    <routinesParameter id="_CDq0IBDYEe-PlI-Kh4S-VA" name="TalendDate"/>
     <routinesParameter id="_CD1MMBDYEe-PlI-Kh4S-VA" name="TalendStringUtil"/>
     <routinesParameter id="_CDdYwBDYEe-PlI-Kh4S-VA" name="Relational"/>
-    <routinesParameter id="_CDXSIBDYEe-PlI-Kh4S-VA" name="Numeric"/>
     <routinesParameter id="_CDlUkBDYEe-PlI-Kh4S-VA" name="TalendDataGenerator"/>
+    <routinesParameter id="_CDq0IBDYEe-PlI-Kh4S-VA" name="TalendDate"/>
+    <routinesParameter id="_CDXSIBDYEe-PlI-Kh4S-VA" name="Numeric"/>
+    <routinesParameter id="_CDiRQBDYEe-PlI-Kh4S-VA" name="StringHandling"/>
+    <routinesParameter id="_CDSZoBDYEe-PlI-Kh4S-VA" name="Mathematical"/>
+    <routinesParameter id="_CCyqYBDYEe-PlI-Kh4S-VA" name="SQLike"/>
+    <routinesParameter id="_CDvsoBDYEe-PlI-Kh4S-VA" name="TalendString"/>
   </parameters>
   <node componentName="tRESTClient" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="160" posY="200">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRESTClient_1"/>
-    <elementParameter field="TEXT" name="URL" value="context.Url + context.businesshours"/>
+    <elementParameter field="TEXT" name="URL" value="context.Url + context.product"/>
     <elementParameter field="TEXT" name="PATH" value="&quot;&quot;"/>
     <elementParameter field="CLOSED_LIST" name="METHOD" value="GET"/>
     <elementParameter field="CLOSED_LIST" name="CONTENT_TYPE" show="false" value="application/xml"/>
@@ -135,7 +137,7 @@
     <elementParameter field="CHECK" name="NEED_AUTH" value="false"/>
     <elementParameter field="CLOSED_LIST" name="AUTH_TYPE" show="false" value="BASIC"/>
     <elementParameter field="TEXT" name="AUTH_USERNAME" show="false" value="&quot;username&quot;"/>
-    <elementParameter field="PASSWORD" name="AUTH_PASSWORD" show="false" value="enc:system.encryption.key.v1:PDjcC3o1GQU727u/ZsDJq6dXBj+x4pLS3C3/LvHTKeLOMNH8+Hg="/>
+    <elementParameter field="PASSWORD" name="AUTH_PASSWORD" show="false" value="enc:system.encryption.key.v1:kjZ96dOow3sjE7ZzHHIMt3ANAqOGf7BEwMq9DragYQR42ZW+Od0="/>
     <elementParameter field="TEXT" name="AUTH_BEARER_TOKEN" show="false" value="&quot;&quot;"/>
     <elementParameter field="CHECK" name="NEED_AUTHORIZATION" show="false" value="false"/>
     <elementParameter field="TEXT" name="ROLE" show="false" value="&quot;&quot;"/>
@@ -169,7 +171,7 @@
     <elementParameter field="TEXT" name="PROXY_HOST" show="false" value="&quot;127.0.0.1&quot;"/>
     <elementParameter field="TEXT" name="PROXY_PORT" show="false" value="8080"/>
     <elementParameter field="TEXT" name="PROXY_USERNAME" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PROXY_PASSWORD" show="false" value="enc:system.encryption.key.v1:t0lZ20f3k6vVrYfR/ftWKu9Bxfy4/0XK971TT5ZH"/>
+    <elementParameter field="PASSWORD" name="PROXY_PASSWORD" show="false" value="enc:system.encryption.key.v1:KvM+6nzmmEV7j3SjovPpVVf+SDTKuJA+UzSl+St3"/>
     <elementParameter field="TEXT" name="ARRAY_KEYS" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRESTClient_1">
@@ -188,15 +190,24 @@
   </node>
   <node componentName="tExtractJSONFields" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="400" posY="200">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tExtractJSONFields_1"/>
+    <elementParameter field="TEXT" name="COMPONENT_NAME" show="false" value="tExtractJSONFields"/>
+    <elementParameter field="TEXT" name="VERSION" show="false" value="0.102 (ALPHA)"/>
+    <elementParameter field="TEXT" name="FAMILY" show="false" value="Processing/Fields"/>
+    <elementParameter field="CHECK" name="STARTABLE" show="false" value="false"/>
+    <elementParameter field="CHECK" name="SUBTREE_START" show="false" value="false"/>
+    <elementParameter field="CHECK" name="END_OF_FLOW" show="false" value="false"/>
+    <elementParameter field="TEXT" name="HELP" show="false" value="org.talend.help.tExtractJSONFields"/>
+    <elementParameter field="DIRECTORY" name="IREPORT_PATH" show="false" value=""/>
+    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" show="false" value="D:\Talend-Studio-20230428_0423-V8.0.1\configuration\lib\java"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_MPy94FRYEe-Ih6UQvwl1RQ"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_V4zVIFR8Ee-J2qgUFx-NZQ"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_MPy94FRYEe-Ih6UQvwl1RQ - businesshours"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_V4zVIFR8Ee-J2qgUFx-NZQ - product"/>
     <elementParameter field="CLOSED_LIST" name="READ_BY" value="JSONPATH"/>
     <elementParameter field="CLOSED_LIST" name="JSON_PATH_VERSION" value="2_1_0"/>
     <elementParameter field="PREV_COLUMN_LIST" name="JSONFIELD" value="string"/>
     <elementParameter field="TEXT" name="LOOP_QUERY" show="false" value="&quot;$[*]&quot;"/>
-    <elementParameter field="TEXT" name="JSON_LOOP_QUERY" value="&quot;$[0]&quot;"/>
+    <elementParameter field="TEXT" name="JSON_LOOP_QUERY" value="&quot;$[*]&quot;"/>
     <elementParameter field="TABLE" name="MAPPING" show="false">
       <elementValue elementRef="SCHEMA_COLUMN" value="id"/>
       <elementValue elementRef="QUERY" value="&quot;id&quot;"/>
@@ -206,12 +217,12 @@
       <elementValue elementRef="QUERY" value="&quot;name&quot;"/>
       <elementValue elementRef="NODECHECK" value=""/>
       <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="start_time"/>
-      <elementValue elementRef="QUERY" value="&quot;business_hours.monday.start_time&quot;"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
+      <elementValue elementRef="QUERY" value="&quot;description&quot;"/>
       <elementValue elementRef="NODECHECK" value=""/>
       <elementValue elementRef="ISARRAY" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="end_time"/>
-      <elementValue elementRef="QUERY" value="&quot;business_hours.monday.end_time&quot;"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="primary_email"/>
+      <elementValue elementRef="QUERY" value="&quot;primary_email&quot;"/>
       <elementValue elementRef="NODECHECK" value=""/>
       <elementValue elementRef="ISARRAY" value=""/>
     </elementParameter>
@@ -220,10 +231,10 @@
       <elementValue elementRef="QUERY" value="&quot;id&quot;"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
       <elementValue elementRef="QUERY" value="&quot;name&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="start_time"/>
-      <elementValue elementRef="QUERY" value="&quot;business_hours.monday.start_time&quot;"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="end_time"/>
-      <elementValue elementRef="QUERY" value="&quot;business_hours.monday.end_time&quot;"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
+      <elementValue elementRef="QUERY" value="&quot;description&quot;"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="primary_email"/>
+      <elementValue elementRef="QUERY" value="&quot;primary_email&quot;"/>
     </elementParameter>
     <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
     <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
@@ -233,17 +244,17 @@
     <elementParameter field="CHECK" name="USE_LOOP_AS_ROOT" value="false"/>
     <elementParameter field="CHECK" name="SPLIT_LIST" show="false" value="true"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="businesshours" name="tExtractJSONFields_1">
+    <metadata connector="FLOW" label="product" name="tExtractJSONFields_1">
       <column comment="" key="false" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Long" usefulColumn="true"/>
-      <column comment="" key="false" length="26" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="start_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="end_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="28" name="primary_email" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
-    <metadata connector="REJECT" label="businesshours" name="REJECT">
-      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Long" usefulColumn="true"/>
-      <column comment="" key="false" length="26" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="start_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="end_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    <metadata connector="REJECT" label="product" name="REJECT">
+      <column comment="" key="false" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Long" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="28" name="primary_email" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorJSONField" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
@@ -267,19 +278,19 @@
       <elementValue elementRef="LENGTH" value="10"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="name"/>
       <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="start_time"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
       <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="end_time"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="primary_email"/>
       <elementValue elementRef="LENGTH" value="10"/>
     </elementParameter>
     <elementParameter field="CHECK" name="PRINT_CONTENT_WITH_LOG4J" value="true"/>
     <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="businesshours" name="tLogRow_1">
-      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Long" usefulColumn="true"/>
-      <column comment="" key="false" length="26" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="start_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="end_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    <metadata connector="FLOW" label="product" name="tLogRow_1">
+      <column comment="" key="false" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Long" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="28" name="primary_email" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tMSSqlOutput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="840" posY="200">
@@ -293,8 +304,8 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.freshdesk"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MSSQL"/>
     <elementParameter field="TEXT" name="USER" value="context.username"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:22kuaDLD9mqFHRuozZ/zu42bcUdTJqg1H6ScU8ict2+Juwg10iejKxDK6CM="/>
-    <elementParameter field="DBTABLE" name="TABLE" value="&quot;BusinessHours&quot;"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:t5284n0yATgRW3ntM73mFRse1U8BrsCC+qeEdzkQ/1CJhcX210SM5Pxsp20="/>
+    <elementParameter field="DBTABLE" name="TABLE" value="&quot;Products&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CHECK" name="IDENTITY_INSERT" value="false"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT_OR_UPDATE"/>
@@ -328,12 +339,12 @@
       <elementValue elementRef="DELETE_KEY" value="false"/>
       <elementValue elementRef="UPDATABLE" value="true"/>
       <elementValue elementRef="INSERTABLE" value="true"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="start_time"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="description"/>
       <elementValue elementRef="UPDATE_KEY" value="false"/>
       <elementValue elementRef="DELETE_KEY" value="false"/>
       <elementValue elementRef="UPDATABLE" value="true"/>
       <elementValue elementRef="INSERTABLE" value="true"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="end_time"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="primary_email"/>
       <elementValue elementRef="UPDATE_KEY" value="false"/>
       <elementValue elementRef="DELETE_KEY" value="false"/>
       <elementValue elementRef="UPDATABLE" value="true"/>
@@ -347,17 +358,17 @@
     <elementParameter field="CHECK" name="SET_QUERY_TIMEOUT" value="false"/>
     <elementParameter field="TEXT" name="QUERY_TIMEOUT_IN_SECONDS" show="false" value="30"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="businesshours" name="tDBOutput_1">
-      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_Long" usefulColumn="true"/>
-      <column comment="" key="false" length="26" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="start_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="end_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    <metadata connector="FLOW" label="product" name="tDBOutput_1">
+      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="BIGINT" type="id_Long" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="28" name="primary_email" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
-    <metadata connector="REJECT" label="businesshours" name="REJECT">
-      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_Long" usefulColumn="true"/>
-      <column comment="" key="false" length="26" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="start_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="11" name="end_time" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    <metadata connector="REJECT" label="product" name="REJECT">
+      <column comment="" key="true" length="12" name="id" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="BIGINT" type="id_Long" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="name" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="description" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="28" name="primary_email" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
@@ -379,13 +390,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="255;255;255"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="47;47;47"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_9313ac47-81c5-4ed8-b90f-4da31c2ead3f"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>STcLdIoiMja5YINERkgx0YreMV2i1mfa/XUV8Kf1I5urpziTLmISJ36m8asOFAXTKXCslr5LlOZw&#13;
-r18zsPVD/g==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_54a09695-9207-4076-8d89-fdd4ce78d8d3"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>aOORLYfeHqSg80T6VjUnfCJMvB/M9GhuDldxPQTUiXATuGvsRp9+T06pP+WfrQyKLi45vcAO0Yd1&#13;
-3ibAalQZdA==</DigestValue></Reference></SignedInfo><SignatureValue>RO6BZbjvywKDEyQJKTylB+3R+BetBywsfRY6MmJ+e45+/UnmSojl8b+FikHj88d4l2gbtUqEh6tc&#13;
-BVqqzYWxtWBw0VlnZrQdAHXi5svJyJMamO0uknT9kB29bRuOfJh1v8dYpKBtS8pfukmqE7fxXBxR&#13;
-a6CgOjXhGxxzQG00+2JnpFUXwox/PQlM62I9lgRDjSQLkbXfatgYtfZ38vqMrJtOprLUoOSnizpZ&#13;
-8RAW6EXRmAC0NyWm7hDKGllEXFlwxwt9vZV2OEM0KpUuOj+0VV5IWrQ5eoiZDO64LzBIx/ieKVJ9&#13;
-WX4fgWGjevBgIn6CShDOCcGzZV/A47Sc0ogKOA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_149e61f4-e172-41ec-b336-3a30f29f01c1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>PKYYf75Qu11AkJztZ6mUzuzJm7/K40KTRf7I0IU3asF09e0RmKpyPTY3TYP7oYKCUfR4OSNPmlut&#13;
+RRZMt1HKdg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_35cf83a4-35c5-4987-a7d1-e251785888b3"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>hnsnex426J+S+9kRhS2F76Iofh1i24S496ynLWn8hxNtt84lj4xy+5ZU+HyNqaz5DsVeotWYMKeD&#13;
+nQOVhvhTkw==</DigestValue></Reference></SignedInfo><SignatureValue>S0bNd5j4BqAQE8uLJ/otLx4+ZKjgJsc2ByzGn9kORTrdEP2ncDG1E8B+adHXPr4japHwLGZ/uRZA&#13;
+9CmhqBfNQVLXogzvo4j9HkomR7dTItPOJa2urulwtZz7/Cn+3bwyxZTgULkRcsUmyKLm7TAzMxPU&#13;
+4uMCjPdbWzgO4dqae1h+sNfWYUZsvqCJgb3j+jfe5xlHnhNNJgW4tmV/7EXmNINnr4Bq8/BR1NyT&#13;
+f3zhYvbWCDF24tUodrvFzk1EULxHdsvvewQ8kC5aS94WKArEFSRB8p0sA40JfJ+tsAVJ5xDEUHs5&#13;
+/6gdyFkV/Js3lHIG618aJnIMAetbJiMSmcG5eA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -407,4 +418,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_54a09695-9207-4076-8d89-fdd4ce78d8d3" Target="#_9313ac47-81c5-4ed8-b90f-4da31c2ead3f"><Timestamp>2024-08-08 14:27:32</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_35cf83a4-35c5-4987-a7d1-e251785888b3" Target="#_149e61f4-e172-41ec-b336-3a30f29f01c1"><Timestamp>2024-08-07 05:19:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
