@@ -836,6 +836,10 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_nxOWYEfSEe-AyPxFm_RWWg - Order_Details",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_nxOWYEfSEe-AyPxFm_RWWg - Orders",
     "version" : "Latest",
     "type" : "schema"
