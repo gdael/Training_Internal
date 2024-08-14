@@ -1,0 +1,30 @@
+{
+  "itemId" : "_73fOkFOaEe-0vurwzJHJGg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_i3vXAFObEe-0vurwzJHJGg",
+    "parameterList" : [ {
+      "id" : "_i369MVObEe-0vurwzJHJGg",
+      "name" : "Url"
+    }, {
+      "id" : "_i369MlObEe-0vurwzJHJGg",
+      "name" : "ticket"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Ni8BAFO5Ee-yPJGBqvHxew",
+    "parameterList" : [ {
+      "id" : "_NjEj4lO5Ee-yPJGBqvHxew",
+      "name" : "password"
+    }, {
+      "id" : "_NjEj41O5Ee-yPJGBqvHxew",
+      "name" : "host"
+    }, {
+      "id" : "_NjEj4VO5Ee-yPJGBqvHxew",
+      "name" : "username"
+    }, {
+      "id" : "_BiIA4FPBEe-gCdgjY5tfJQ",
+      "name" : "freshdesk"
+    } ]
+  } ]
+}
