@@ -1,0 +1,29 @@
+{
+  "itemId" : "_Acd1UFngEe-GW92SdAdL6A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_TocDkFkzEe-zDfBX_lAB5w",
+    "parameterList" : [ {
+      "id" : "_Too35lkzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_AdditionalParams"
+    }, {
+      "id" : "_Too34lkzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Database"
+    }, {
+      "id" : "_Too34VkzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Login"
+    }, {
+      "id" : "_Too351kzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Password"
+    }, {
+      "id" : "_Too35FkzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Port"
+    }, {
+      "id" : "_Too35VkzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Schema"
+    }, {
+      "id" : "_Too341kzEe-zDfBX_lAB5w",
+      "name" : "QS_Dataset_Server"
+    } ]
+  } ]
+}
