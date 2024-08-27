@@ -1,0 +1,20 @@
+{
+  "itemId" : "_cfmgwGQkEe-qYolx8Mblhw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Ni8BAFO5Ee-yPJGBqvHxew",
+    "parameterList" : [ {
+      "id" : "_NjEj4VO5Ee-yPJGBqvHxew",
+      "name" : "username"
+    }, {
+      "id" : "_NjEj4lO5Ee-yPJGBqvHxew",
+      "name" : "password"
+    }, {
+      "id" : "_NjEj41O5Ee-yPJGBqvHxew",
+      "name" : "host"
+    }, {
+      "id" : "_BiIA4FPBEe-gCdgjY5tfJQ",
+      "name" : "freshdesk"
+    } ]
+  } ]
+}
