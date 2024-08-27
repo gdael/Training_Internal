@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedItems id="_OF8PME4NEe-izOCl-pO0yQ" path="Eunice/Training" type="METADATA_CONNECTIONS"/>
   <deletedItems id="_XJuagPFgEe6G_76miLuarA" path="" type="METADATA_FILE_DELIMITED"/>
   <deletedItems id="_lgAcoFnkEe-N_YTZ1CoGvA" path="" type="METADATA_FILE_EXCEL"/>
+  <deletedItems id="_JmsM0FSIEe-X1ot3_z4H_g" path="Eunice/Training" type="METADATA_GENERIC_SCHEMA"/>
   <deletedItems id="_T7X70FOPEe-0vurwzJHJGg" path="" type="PROCESS"/>
   <deletedItems id="_Z9_GIE4LEe--t5X6e8TMQg" path="" type="PROCESS"/>
   <deletedItems id="_p1X04EfREe-AyPxFm_RWWg" path="" type="PROCESS"/>
   <deletedItems id="_cfmgwGQkEe-qYolx8Mblhw" path="Freshdesk" type="PROCESS"/>
   <deletedItems id="_C1ygQC62Ee-mi-ru8Eo1Sg" path="Mix_Retail" type="PROCESS"/>
+  <deletedItems id="_8MjTEE7NEe-me8vffHxn9g" path="Training/Eunice/Training" type="PROCESS"/>
+  <deletedItems id="_6T-VAE4WEe-izOCl-pO0yQ" path="Training/Eunice/Training/Eunice/Training/ETLpractice" type="PROCESS"/>
+  <deletedItems id="_W8WkUE4PEe-izOCl-pO0yQ" path="Training/Eunice/Training/Eunice/Training/ETLpractice" type="PROCESS"/>
+  <deletedItems id="_lEiGUE4XEe-izOCl-pO0yQ" path="Training/Eunice/Training/Eunice/Training/ETLpractice" type="PROCESS"/>
+  <deletedItems id="_aNMtR1CEEe-K8PY2O9l66Q" path="Training/Eunice/Training/Eunice/Training/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_aNMtRVCEEe-K8PY2O9l66Q" path="Training/Eunice/Training/Eunice/Training/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_aNMtRlCEEe-K8PY2O9l66Q" path="Training/Eunice/Training/Eunice/Training/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_aNMtSFCEEe-K8PY2O9l66Q" path="Training/Eunice/Training/Eunice/Training/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_Ooq5sFUcEe-rPdZDE_c_8Q" path="Training/Eunice/Training/FreshDesk_Training" type="PROCESS"/>
+  <deletedItems id="_POriEFUiEe-7T6-WcWLyQw" path="Training/Eunice/Training/FreshDesk_Training" type="PROCESS"/>
+  <deletedItems id="_wNhnUFSWEe-AWZR6G2SKDA" path="Training/Eunice/Training/FreshDesk_Training" type="PROCESS"/>
+  <deletedItems id="_17E0UE7VEe-me8vffHxn9g" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="__zcgME-cEe-Rq-frVvgwOw" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_yFIdUFOSEe-e1aa_xMtlDw" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay2" type="PROCESS"/>
+  <deletedItems id="_4MnnIFCsEe-K8PY2O9l66Q" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay3" type="PROCESS"/>
+  <deletedItems id="_5mEXIE_MEe-yRsrIbGmaPQ" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay3" type="PROCESS"/>
+  <deletedItems id="_Dqy9sE_IEe-k_Y1TwKfKEw" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay3" type="PROCESS"/>
+  <deletedItems id="_GU1pYFCJEe-K8PY2O9l66Q" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay3" type="PROCESS"/>
+  <deletedItems id="_eDGckFDYEe-QpbbPEQpQxQ" path="Training/Eunice/Training/Practice_101/PracticeWeek2/PracticeDay3" type="PROCESS"/>
 </recyclebin:RecycleBin>
